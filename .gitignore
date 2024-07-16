@@ -77,6 +77,7 @@ Saved/WorldPartition/*
 Saved/Config/CrashReportClient/*
 Saved/AutoScreenshot.png
 Saved/StagedBuilds/*
+Saved/webcache_*
 
 # Compiled source files for the engine to use
 Intermediate/*
