@@ -4,7 +4,7 @@ This a WIP Unreal Engine 5 project, it's meant to be an interactive storytelling
 
 Some gameplay shorts can be found here: https://www.youtube.com/watch?v=nEuMNlzvf4Q
 
-Galery of most recent version of the prototype
+Gallery of most recent version of the prototype
 ![omg](https://github.com/user-attachments/assets/df981ddf-9271-4425-acde-6250e17c64ba)
 
 
